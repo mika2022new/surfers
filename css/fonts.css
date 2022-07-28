@@ -1,0 +1,76 @@
+
+/*--------------- Montserrat --------------*/
+
+@font-face {
+    font-weight: 400;
+    font-style: normal;
+
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-weight: 700;
+    font-style: normal;
+
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserrat-Bold.ttf);
+}
+
+
+
+/*--------------- Playfair Display --------------*/
+
+@font-face {
+    font-weight: 400;
+    font-style: italic;
+
+    font-family: 'Playfair Display';
+    src: url(../fonts/PlayfairDisplay.ttf);
+}
+
+/*--------------- Raleway --------------*/
+
+@font-face {
+    font-weight: 400;
+    font-style: normal;
+
+    font-family: 'Raleway';
+    src: url(../fonts/Raleway-Regular.ttf);
+}
+
+@font-face {
+    font-weight: 700;
+    font-style: normal;
+
+    font-family: 'Raleway';
+    src: url(../fonts/Raleway-Bold.ttf);
+}
+
+
+
+/*--------------- RobotoCondensed --------------*/
+
+@font-face {
+    font-weight: 700;
+    font-style: normal;
+
+    font-family: 'RobotoCondensed';
+    src: url(../fonts/RobotoCondensed-Bold.ttf);
+}
+
+
+
+
+/*--------------- HelveticaLTStd --------------*/
+
+@font-face {
+    font-weight: 700;
+    font-style: normal;
+
+    font-family: 'HelveticaLTStd';
+    src: url(../fonts/HelveticaLTStd-Bold.otf);
+}
+
+
+
