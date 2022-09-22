@@ -553,11 +553,11 @@ window.addEventListener('DOMContentLoaded', () => {
                 let statusMessage = document.createElement('div');
                 statusMessage.style.cssText = `
                 font-family: 'RobotoCondensed', sans-serif;
-                font-size: 26px;
+                font-size: 1.625em;
                 font-weight: 400;
-                letter-spacing: 2px;
+                letter-spacing: 0.125em;
                 color: #fff;
-                margin: auto 100px;
+                margin: auto 6.25em;
                 `;
                 wrapper.appendChild(statusMessage);
                 statusMessage.textContent=message.loading;
