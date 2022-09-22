@@ -1364,7 +1364,7 @@ body.noscroll {
     width: 1.375em;
     height: 1.375em;
     bottom: 0.375em;
-    right: calc(-7px + (7 + 7 * 0.7) * ((100vw - 320px) / 1920));
+    right: calc(-0.3125em + (7 + 7 * 0.7) * ((100vw - 320px) / 1920));
     border-radius: 50%;
     background-color: #00b0ff;
     cursor: pointer;
